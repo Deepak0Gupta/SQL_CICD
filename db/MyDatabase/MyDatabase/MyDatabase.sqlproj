@@ -69,5 +69,6 @@
     <Build Include="dbo\Stored Procedures\sp_GetInventoryData.sql" />
     <Build Include="dbo\Stored Procedures\sp_DeleteInventoryDetails.sql" />
     <Build Include="dbo\Stored Procedures\sp_UpdateInventoryData.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetAllTest.sql" />
   </ItemGroup>
 </Project>

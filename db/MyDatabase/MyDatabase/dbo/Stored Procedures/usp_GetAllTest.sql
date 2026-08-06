@@ -1,0 +1,6 @@
+﻿CREATE PROCEDURE [dbo].[usp_GetAllTest]
+AS
+BEGIN
+    SET NOCOUNT ON;
+    SELECT GETDATE() AS CurrentServerTime;
+END
