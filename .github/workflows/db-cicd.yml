@@ -25,6 +25,8 @@ jobs:
 
       - name: Deploy DACPAC to SQL Server
         if: github.ref == 'refs/heads/main'
+        env:
+          DOTNET_ROLL_FORWARD: LatestMinor
         run: |
           sqlpackage /Action:Publish `
             /SourceFile:"db/MyDatabase/MyDatabase/bin/Release/MyDatabase.dacpac" `
