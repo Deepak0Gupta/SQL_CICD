@@ -31,5 +31,5 @@ jobs:
           sqlpackage /Action:Publish `
             /SourceFile:"db/MyDatabase/MyDatabase/bin/Release/MyDatabase.dacpac" `
             /TargetServerName:"localhost" `
-            /TargetDatabaseName:"MyDatabase" `
+            /TargetDatabaseName:"BooksDB" `
             /TargetTrustServerCertificate:true
