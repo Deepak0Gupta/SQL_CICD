@@ -1,0 +1,5 @@
+﻿action-runner/
+**/bin/
+**/obj/
+**/.vs/
+*.user

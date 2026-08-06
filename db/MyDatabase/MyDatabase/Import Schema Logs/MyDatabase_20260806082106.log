@@ -1,0 +1,87 @@
+06-08-2026 13:51:06	This log contains information about the import schema operation into project 'MyDatabase' on computer 'DEEPAK' by user 'ACER'.
+06-08-2026 13:51:06	Import of database schema has started.
+06-08-2026 13:51:12	Gathering database credentials
+06-08-2026 13:51:12	Gathering database options
+06-08-2026 13:51:12	Gathering generic database scoped configuration option
+06-08-2026 13:51:12	Gathering users
+06-08-2026 13:51:12	Gathering roles
+06-08-2026 13:51:12	Gathering application roles
+06-08-2026 13:51:12	Gathering role memberships
+06-08-2026 13:51:12	Gathering filegroups
+06-08-2026 13:51:12	Gathering full-text catalogs
+06-08-2026 13:51:12	Gathering assemblies
+06-08-2026 13:51:12	Gathering certificates
+06-08-2026 13:51:12	Gathering asymmetric keys
+06-08-2026 13:51:12	Gathering symmetric keys
+06-08-2026 13:51:12	Gathering encrypted symmetric keys
+06-08-2026 13:51:12	Gathering schemas
+06-08-2026 13:51:12	Gathering XML schema collections
+06-08-2026 13:51:12	Gathering user-defined data types
+06-08-2026 13:51:12	Gathering user-defined types
+06-08-2026 13:51:12	Gathering table types
+06-08-2026 13:51:12	Gathering unique keys for table types
+06-08-2026 13:51:12	Gathering primary keys for table types
+06-08-2026 13:51:12	Gathering indexes for table types
+06-08-2026 13:51:12	Gathering check constraints for table types
+06-08-2026 13:51:12	Gathering default constraints for table types
+06-08-2026 13:51:12	Gathering partition functions
+06-08-2026 13:51:12	Gathering partition schemes
+06-08-2026 13:51:12	Gathering functions
+06-08-2026 13:51:12	Gathering encrypted functions
+06-08-2026 13:51:12	Gathering aggregates
+06-08-2026 13:51:12	Gathering procedures
+06-08-2026 13:51:12	Gathering encrypted procedures
+06-08-2026 13:51:12	Gathering tables
+06-08-2026 13:51:13	Gathering primary keys
+06-08-2026 13:51:13	Gathering unique constraints
+06-08-2026 13:51:13	Gathering foreign keys
+06-08-2026 13:51:13	Gathering default constraints
+06-08-2026 13:51:13	Gathering check constraints
+06-08-2026 13:51:13	Gathering views
+06-08-2026 13:51:13	Gathering encrypted views
+06-08-2026 13:51:13	Gathering indexes
+06-08-2026 13:51:13	Gathering statistics
+06-08-2026 13:51:13	Gathering full-text index stoplists
+06-08-2026 13:51:13	Gathering search property lists
+06-08-2026 13:51:13	Gathering search properties
+06-08-2026 13:51:13	Gathering full-text indexes
+06-08-2026 13:51:13	Gathering column store indexes
+06-08-2026 13:51:13	Gathering spatial indexes
+06-08-2026 13:51:13	Gathering XML indexes
+06-08-2026 13:51:13	Gathering Selective XML indexes
+06-08-2026 13:51:13	Gathering encrypted triggers
+06-08-2026 13:51:13	Gathering triggers
+06-08-2026 13:51:13	Gathering encrypted and clr ddl triggers
+06-08-2026 13:51:13	Gathering ddl triggers
+06-08-2026 13:51:13	Creating edge constraints
+06-08-2026 13:51:13	Gathering synonyms
+06-08-2026 13:51:13	Gathering defaults
+06-08-2026 13:51:13	Gathering data constraint uddt bindings
+06-08-2026 13:51:13	Gathering rules
+06-08-2026 13:51:13	Gathering data constraint uddt bindings
+06-08-2026 13:51:13	Gathering message types
+06-08-2026 13:51:13	Gathering queues
+06-08-2026 13:51:13	Gathering contracts
+06-08-2026 13:51:13	Gathering services
+06-08-2026 13:51:13	Gathering event notifications
+06-08-2026 13:51:13	Gathering remote service bindings
+06-08-2026 13:51:13	Gathering broker priorities
+06-08-2026 13:51:13	Gathering signatures
+06-08-2026 13:51:13	Gathering compression options
+06-08-2026 13:51:13	Gathering sequence types
+06-08-2026 13:51:13	Gathering security policies
+06-08-2026 13:51:13	Gather column encryption keys
+06-08-2026 13:51:13	Gathering column master keys
+06-08-2026 13:51:13	Gathering external data sources
+06-08-2026 13:51:13	Gathering external file formats
+06-08-2026 13:51:13	Gathering external tables
+06-08-2026 13:51:13	Gathering extended properties
+06-08-2026 13:51:13	Gathering assemblies
+06-08-2026 13:51:13	Gathering credentials
+06-08-2026 13:51:13	Gathering logins
+06-08-2026 13:51:13	Gathering server audits
+06-08-2026 13:51:13	Scanning project for duplicate elements
+06-08-2026 13:51:13	Finished duplicate element processing
+06-08-2026 13:51:13	Finished importing database.
+06-08-2026 13:51:13	A summary of the import was saved to the following location: D:\SQL_CICD\db\MyDatabase\MyDatabase\Import Schema Logs\MyDatabase_20260806082106.log
+06-08-2026 13:51:13	Click Finish to continue...
